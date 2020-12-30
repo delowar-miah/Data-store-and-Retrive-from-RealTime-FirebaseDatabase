@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBaseDataStore</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="save_data">Save Data</string>
+    <string name="load_data">Load data</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565684143187",
+    "firebase_url": "https://realtimefirebasedatastore-default-rtdb.firebaseio.com",
+    "project_id": "realtimefirebasedatastore",
+    "storage_bucket": "realtimefirebasedatastore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565684143187:android:7a21f85fc882635226f2a6",
+        "android_client_info": {
+          "package_name": "com.delowar.firebasedatastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565684143187-htmoemse02t6u12vr2ooped3jk3ms7m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delowar.firebasedatastore",
+            "certificate_hash": "0e617d3734afeadcd52219642f5b3c25b82065a2"
+          }
+        },
+        {
+          "client_id": "565684143187-o3m65vo8medr7oojga0k8ges11mdn0ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKtdC4j72fzYFCHig_Y8szeAdPxpm520"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565684143187-o3m65vo8medr7oojga0k8ges11mdn0ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
